@@ -12,7 +12,7 @@ Gosto de entender como as coisas funcionam, do cérebro ao código, e de transfo
 -->
 
 ### 🧰 Ferramentas
-React · JavaScript · HTML/CSS · Tailwind · Supabase · Python · Power BI · Power Apps
+React · JavaScript · HTML/CSS · Tailwind · Supabase · Pythonn · SQL · Git · Power BI · Power Apps
 
 ### 🌱 Agora estou
 - Cursando Tecnologia em Sistemas de Computação na UFF (5º período)
